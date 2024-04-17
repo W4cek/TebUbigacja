@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Tytul": "Guwno",
+    "Autor": "Sraka",
+    "RokWydania": 1910,
+    "Gatunek": "Horror"
+  },
+  {
+    "Id": 2,
+    "Tytul": "Teb Ubigacja",
+    "Autor": "Kacper ",
+    "RokWydania": 2024,
+    "Gatunek": "Dramat"
+  }
+]

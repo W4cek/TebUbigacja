@@ -1,0 +1,17 @@
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\bin\Debug\net8.0\ksiegi.exe
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\bin\Debug\net8.0\ksiegi.deps.json
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\bin\Debug\net8.0\ksiegi.runtimeconfig.json
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\bin\Debug\net8.0\ksiegi.dll
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\bin\Debug\net8.0\ksiegi.pdb
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\obj\Debug\net8.0\ksiegi.csproj.AssemblyReference.cache
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\obj\Debug\net8.0\ksiegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\obj\Debug\net8.0\ksiegi.AssemblyInfoInputs.cache
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\obj\Debug\net8.0\ksiegi.AssemblyInfo.cs
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\obj\Debug\net8.0\ksiegi.csproj.CoreCompileInputs.cache
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\obj\Debug\net8.0\ksiegi.csproj.CopyComplete
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\obj\Debug\net8.0\ksiegi.dll
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\obj\Debug\net8.0\refint\ksiegi.dll
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\obj\Debug\net8.0\ksiegi.pdb
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\obj\Debug\net8.0\ksiegi.genruntimeconfig.cache
+C:\Users\kacperwaclawski'\source\repos\ksiegi\ksiegi\obj\Debug\net8.0\ref\ksiegi.dll

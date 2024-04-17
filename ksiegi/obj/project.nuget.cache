@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V7vJXn947C9S5w0YQspCaGvVEcgBejpCSWSwmwCgA7vaFwiLIE7/LkvhfAXP1+9z0O/PD+LWQslqbnsg/j1azA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kacperwaclawski'\\source\\repos\\ksiegi\\ksiegi\\ksiegi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kacperwaclawski'\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
